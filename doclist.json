@@ -1,0 +1,59 @@
+[
+	{
+		"id": "11beel",
+		"url": "http://www.dlib.org/dlib/november14/beel/11beel.html",
+		"title": "The Architecture and Datasets of Docear's Research Paper Recommender System"
+	}, {
+		"id": "11jahja",
+		"url": "http://www.dlib.org/dlib/november14/jahja/11jahja.html",
+		"title": "Experiments on Rating Conferences with CORE and DBLP"
+	}, {
+		"id": "11brook",
+		"url": "http://www.dlib.org/dlib/november14/brook/11brook.html",
+		"title": "The Social, Political and Legal Aspects of Text and Data Mining (TDM)"
+	}, {
+		"id": "11fedoryszak",
+		"url": "http://www.dlib.org/dlib/november14/fedoryszak/11fedoryszak.html",
+		"title": "Efficient Blocking Method for a Large Scale Citation Matching"
+	}, {
+		"id": "11giannakopoulos",
+		"url": "http://www.dlib.org/dlib/november14/giannakopoulos/11giannakopoulos.html",
+		"title": "Discovering and Visualizing Interdisciplinary Content Classes in Scientific Publications"
+	}, {
+		"id": "11holub",
+		"url": "http://www.dlib.org/dlib/november14/holub/11holub.html",
+		"title": "Annota: Towards Enriching Scientific Publications with Semantics and User Annotations"
+	}, {
+		"id": "11klampfl",
+		"url": "http://www.dlib.org/dlib/november14/klampfl/11klampfl.html",
+		"title": "A Comparison of Two Unsupervised Table Recognition Methods from Digital Scientific Articles"
+	}, {
+		"id": "11knoth",
+		"url": "http://www.dlib.org/dlib/november14/knoth/11knoth.html",
+		"title": "Towards Semantometrics: A New Semantic Similarity Based Measure for Assessing a Research Publication's Contribution"
+	}, {
+		"id": "11kristianto",
+		"url": "http://www.dlib.org/dlib/november14/kristianto/11kristianto.html",
+		"title": "Extracting Textual Descriptions of Mathematical Expressions in Scientific Papers"
+	}, {
+		"id": "11kroell",
+		"url": "http://www.dlib.org/dlib/november14/kroell/11kroell.html",
+		"title": "Towards a Marketplace for the Scientific Community: Accessing Knowledge from the Computer Science Domain"
+	}, {
+		"id": "11murray-rust.",
+		"url": "http://www.dlib.org/dlib/november14/murray-rust/11murray-rust.html",
+		"title": "AMI-diagram: Mining Facts from Images"
+	}, {
+		"id": "11smith-unna.",
+		"url": "http://www.dlib.org/dlib/november14/smith-unna/11smith-unna.html",
+		"title": "The ContentMine Scraping Stack: Literature-scale Content Mining with Community-maintained Collections of Declarative Scrapers"
+	}, {
+		"id": "11tkaczyk",
+		"url": "http://www.dlib.org/dlib/november14/tkaczyk/11tkaczyk.html",
+		"title": "GROTOAP2 — The Methodology of Creating a Large Ground Truth Dataset of Scientific Articles"
+	}, {
+		"id": "11voelske",
+		"url": "http://www.dlib.org/dlib/november14/voelske/11voelske.html",
+		"title": "A Keyquery-Based Classification System for CORE"
+	}
+]

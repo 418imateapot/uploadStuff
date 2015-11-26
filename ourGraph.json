@@ -1,0 +1,99 @@
+{
+    "head": {
+        "vars": ["s", "p", "o"]
+    },
+    "results": {
+        "bindings": [{
+            "p": {
+                "type": "uri",
+                "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+            },
+            "s": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel"
+            },
+            "o": {
+                "type": "uri",
+                "value": "http://purl.org/spar/fabio/Work"
+            }
+        }, {
+            "p": {
+                "type": "uri",
+                "value": "http://purl.org/vocab/frbr/core#realization"
+            },
+            "s": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel"
+            },
+            "o": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel_ver1"
+            }
+        }, {
+            "p": {
+                "type": "uri",
+                "value": "http://purl.org/spar/fabio/hasPortrayal"
+            },
+            "s": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel"
+            },
+            "o": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel.html"
+            }
+        }, {
+            "p": {
+                "type": "uri",
+                "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+            },
+            "s": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel_ver1"
+            },
+            "o": {
+                "type": "uri",
+                "value": "http://purl.org/spar/fabio/Expression"
+            }
+        }, {
+            "p": {
+                "type": "uri",
+                "value": "http://purl.org/spar/fabio/hasRepresentation"
+            },
+            "s": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel_ver1"
+            },
+            "o": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel.html"
+            }
+        }, {
+            "p": {
+                "type": "uri",
+                "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+            },
+            "s": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/november14/beel/11beel.html"
+            },
+            "o": {
+                "type": "uri",
+                "value": "http://purl.org/spar/fabio/Item"
+            }
+        }, {
+            "p": {
+                "type": "uri",
+                "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+            },
+            "s": {
+                "type": "uri",
+                "value": "http://www.dlib.org/dlib/march15/moulaison/03moulaison.html"
+            },
+            "o": {
+                "type": "uri",
+                "value": "http://purl.org/spar/fabio/Item"
+            }
+        }]
+    }
+}
