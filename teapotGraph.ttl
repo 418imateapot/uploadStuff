@@ -1,14 +1,59 @@
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix frbr: <http://purl.org/vocab/frbr/core#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix xmls: <http://www.w3.org/2001/XMLSchema#> .
+
 <http://www.dlib.org/dlib/november14/beel/11beel>
-        a       <http://purl.org/spar/fabio/Work> ;
-        <http://purl.org/spar/fabio/hasPortrayal>
-                <http://www.dlib.org/dlib/november14/beel/11beel.html> ;
-        <http://purl.org/vocab/frbr/core#realization>
-                <http://www.dlib.org/dlib/november14/beel/11beel_ver1> .
+	a	fabio:Work ;
+	fabio:hasPortrayal
+		<http://www.dlib.org/dlib/november14/beel/11beel.html> ;
+	frbr:realization
+		<http://www.dlib.org/dlib/november14/beel/11beel_ver1> .
 
 <http://www.dlib.org/dlib/november14/beel/11beel_ver1>
-        a       <http://purl.org/spar/fabio/Expression> ;
-        <http://purl.org/spar/fabio/hasRepresentation>
-                <http://www.dlib.org/dlib/november14/beel/11beel.html> .
+	a	fabio:Expression ;
+	fabio:hasRepresentation
+		<http://www.dlib.org/dlib/november14/beel/11beel.html> .
 
 <http://www.dlib.org/dlib/november14/beel/11beel.html>
-        a       <http://purl.org/spar/fabio/Item> .
+	a	fabio:Item .
+
+<http://www.dlib.org/dlib/november14/beel/11beel_ver1>
+	dcterms:title "The Architecture and Datasets of Docear's Research Paper Recommender System"^^xmls:string .
+
+<http://www.dlib.org/dlib/november14/jahja/11jahja>
+	a 	fabio:Work ;
+	fabio:hasPortrayal
+		<http://www.dlib.org/dlib/november14/jahja/11jahja.html> ;
+	frbr:realization
+		<http://www.dlib.org/dlib/november14/jahja/11jahja_ver1> .
+
+<http://www.dlib.org/dlib/november14/jahja/11jahja_ver1>
+	a	fabio:Expression ;
+	fabio:hasRepresentation
+		<http://www.dlib.org/dlib/november14/jahja/11jahja.html> .
+
+<http://www.dlib.org/dlib/november14/jahja/11jahja.html>
+	a	fabio:Item .
+
+<http://www.dlib.org/dlib/november14/jahja/11jahja_ver1>
+	dcterms:title "Experiments on Rating Conferences with CORE and DBLP"^^xmls:string .
+
+<http://www.dlib.org/dlib/march15/moulaison/03moulaison>
+	a 	fabio:Work ;
+	fabio:hasPortrayal
+		<http://www.dlib.org/dlib/march15/moulaison/03moulaison.html> ;
+	frbr:realization
+		<http://www.dlib.org/dlib/march15/moulaison/03moulaison_ver1> .
+
+<http://www.dlib.org/dlib/march15/moulaison/03moulaison_ver1>
+	a	fabio:Expression ;
+	fabio:hasRepresentation
+		<http://www.dlib.org/dlib/march15/moulaison/03moulaison.html> .
+
+<http://www.dlib.org/dlib/march15/moulaison/03moulaison.html>
+	a	fabio:Item .
+
+<http://www.dlib.org/dlib/march15/moulaison/03moulaison_ver1>
+	dcterms:title "OpenDOAR Repositories and Metadata Practices"^^xmls:string .
+

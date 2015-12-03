@@ -17,7 +17,7 @@ query = """INSERT DATA {
 # NB: Usare 'DELETE' al posto di 'INSERT' per rimuovere
 # i dati dal triplestore
 
-sparql = SPARQLWrapper("http://tweb2015.cs.unibo.it:8080/data/update")
+sparql = SPARQLWrapper("http://tweb2015.cs.unibo.it:8080/data/update?user{}&pass={}".format("ltw1543", "43het5=!X"))
 sparql.setQuery(query)
 sparql.setMethod('POST')
 q = sparql.query()
