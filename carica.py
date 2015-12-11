@@ -59,4 +59,4 @@ def createTriples(someJson):
 
 
 resJson = getURLandTitle("http://rivista-statistica.unibo.it/issue/view/467?acceptCookies=1")
-print createTriples(resJson)
+print createTriples(resJson).encode('utf-8')
